@@ -41,3 +41,7 @@ nav a:hover {
 nav a:active {
   color: rgb(68, 56, 45);
 }
+
+.infographic {
+  margin-bottom: 30px;
+}
