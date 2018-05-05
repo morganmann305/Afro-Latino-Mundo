@@ -1,9 +1,10 @@
-@import url('https://fonts.googleapis.com/css?family=Lancelot');
+@import url('https://fonts.googleapis.com/css?family=Arima+Madurai');
+
 
 
 body {
   font-size: 25px;
-  font-family: 'Lancelot', sans-serif;
+  font-family: 'Arima Madurai', cursive;
   color: rgb(70,56,43);
   background: url('../images/green_dust_scratch.png');
   width: 960px;
@@ -44,4 +45,12 @@ nav a:active {
 
 .infographic {
   margin-bottom: 30px;
+}
+
+#puerto_rico{
+  float: right;
+}
+
+#cuba {
+  margin-left: 80px;
 }
