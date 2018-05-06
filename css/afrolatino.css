@@ -44,8 +44,10 @@ nav a:active {
 }
 
 .infographic {
+  margin-top: 50px;
   margin-bottom: 30px;
 }
+
 
 #puerto_rico{
   float: right;
